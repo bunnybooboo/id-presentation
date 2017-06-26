@@ -1,7 +1,7 @@
-1. [ ] sign up & login to `openstreetmap.org` - use your favourite 3rd party login if you prefer
-2. [ ] in another tab in your browser navigate to `tasks.hotosm.org`
-3. [ ] click on `login to OpenStreetMap` in the top right corner
-4. this should integrate with your OSM login in the 1st tab
+[ ] sign up & login to `openstreetmap.org` - use your favourite 3rd party login if you prefer
+[ ] in another tab in your browser navigate to `tasks.hotosm.org`
+[ ] click on `login to OpenStreetMap` in the top right corner
+[ ] this should integrate with your OSM login in the 1st tab
 [ ] 5. and ask you to allow to read your user preferences
 [ ] 6. click on `Grant Acess`
 [ ] 7. note that your OSM username shows in the top right hand corner
