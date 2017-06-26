@@ -1,4 +1,4 @@
-[ ]. sign up & login to `openstreetmap.org` - use your favourite 3rd party login if you prefer
+[ ] 1. sign up & login to `openstreetmap.org` - use your favourite 3rd party login if you prefer
 [ ] in another tab in your browser navigate to `tasks.hotosm.org`
 [ ] click on `login to OpenStreetMap` in the top right corner
 [ ] this should integrate with your OSM login in the 1st tab
